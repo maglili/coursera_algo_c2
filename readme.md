@@ -7,7 +7,7 @@
 
 Coursera course: [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures/home/welcome) assignments.
 
-- [Week 1](./week1)
-- [Week 2](./week2)
+- [Week 1: strongly connected components (SCCs)](./week1)
+- [Week 2: Dijkstra's shortest-path algorithm.](./week2)
 - [Week 3](./week3)
 - [Week 4](./week4)
