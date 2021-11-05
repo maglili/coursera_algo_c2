@@ -9,5 +9,5 @@ Coursera course: [Graph Search, Shortest Paths, and Data Structures](https://www
 
 - [Week 1: strongly connected components (SCCs)](./week1)
 - [Week 2: Dijkstra's shortest-path algorithm.](./week2)
-- [Week 3](./week3)
+- [Week 3: "Median Maintenance" algorithm (by 2 heaps)](./week3)
 - [Week 4](./week4)
